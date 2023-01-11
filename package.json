@@ -1,0 +1,17 @@
+{
+  "name": "task-one",
+  "version": "1.0.0",
+  "description": "test project for blog api",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter mochawesome"
+  },
+  "author": "stacey kingi",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "mocha": "^10.2.0",
+    "mochawesome": "^7.1.3"
+  }
+}
